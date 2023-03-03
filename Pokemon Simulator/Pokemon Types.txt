@@ -1,0 +1,18 @@
+Normal - No strengths or weaknesses.
+Fire - Strong against Grass, Ice, Bug, and Steel. Weak against Water, Ground, and Rock.
+Water - Strong against Fire, Ground, and Rock. Weak against Grass and Electric.
+Grass - Strong against Water, Ground, and Rock. Weak against Fire, Ice, Poison, Flying, and Bug.
+Electric - Strong against Water and Flying. Weak against Ground.
+Ice - Strong against Grass, Ground, Flying, and Dragon. Weak against Fire, Fighting, Rock, and Steel.
+Fighting - Strong against Normal, Ice, Rock, Dark, and Steel. Weak against Flying, Psychic, and Fairy.
+Poison - Strong against Grass and Fairy. Weak against Ground and Psychic.
+Ground - Strong against Fire, Electric, Poison, Rock, and Steel. Weak against Water, Grass, and Ice.
+Flying - Strong against Grass, Fighting, and Bug. Weak against Electric, Ice, and Rock.
+Psychic - Strong against Fighting and Poison. Weak against Bug, Ghost, and Dark.
+Bug - Strong against Grass, Psychic, and Dark. Weak against Fire, Flying, and Rock.
+Rock - Strong against Fire, Ice, Flying, and Bug. Weak against Water, Grass, Fighting, Ground, and Steel.
+Ghost - Strong against Psychic and Ghost. Weak against Dark.
+Dragon - Strong against Dragon. Weak against Ice, Dragon, and Fairy.
+Dark - Strong against Psychic and Ghost. Weak against Fighting and Fairy.
+Steel - Strong against Ice, Rock, and Fairy. Weak against Fire, Fighting, and Ground.
+Fairy - Strong against Fighting, Dragon, and Dark. Weak against Poison and Steel.
