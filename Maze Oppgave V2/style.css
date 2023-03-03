@@ -21,14 +21,9 @@ td.wall {
     cursor: pointer;
 }
 
-td.corner {
-width: 10px;
-height: 10px;
-background-color: black;
-}
-
 td.noWall {
     background-color: white;
+    cursor: pointer;
 }
 
 td.narrow {
@@ -45,4 +40,28 @@ td.high {
 
 td.low {
     height: 10px;
+}
+
+td.corner {
+    width: 10px;
+    height: 10px;
+    background-color: black;
+}
+
+td.outerWallHorizontal {
+    width: 40px;
+    height: 10px;
+    background-color: black;
+}
+
+td.outerWallVertical {
+    width: 10px;
+    height: 40px;
+    background-color: black;
+}
+
+td.entranceAndExit {
+    width: 40px;
+    height: 10px;
+    background-color: white;
 }
